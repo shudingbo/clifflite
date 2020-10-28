@@ -1,0 +1,25 @@
+{
+  "name": "clifflite",
+  "version": "0.0.3",
+  "description": "CLi out format lite",
+  "main": "./lib/cliff",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shudingbo/clifflite.git"
+  },
+  "keywords": [
+    "cliff"
+  ],
+  "author": "shudingbo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shudingbo/clifflite/issues"
+  },
+  "homepage": "https://github.com/shudingbo/clifflite#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
