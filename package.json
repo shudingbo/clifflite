@@ -1,6 +1,6 @@
 {
   "name": "clifflite",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "CLi out format lite",
   "main": "./lib/cliff",
   "scripts": {
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/shudingbo/clifflite#readme",
   "dependencies": {
-    "colors": "^1.4.0"
+    "colors": "^1.4.0",
+    "eyes": "~0.1.8"
   }
 }

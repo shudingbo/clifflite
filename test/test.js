@@ -38,4 +38,13 @@ var rowsClr = [
 
 cliff.putRows('data', rowsClr, ['red', 'blue', 'green']);
 
-cliff.
+let testInspect = {
+  name: 'ahedy haa',
+  age: 16,
+  big: true,
+  addr: [
+    { con: '111', pro: '222', num: 1234 },
+    { con: '112', pro: '223', num: 1236 },
+  ]
+};
+console.log( cliff.inspect( testInspect ));
